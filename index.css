@@ -213,7 +213,7 @@ dt {
   font-weight: bold;
 }
 ul li {
-  list-style-image: url("https://blogger.googleusercontent.com/img/a/AVvXsEgRO_8X_jPLMrm-mHgzEwXS0m4dFuIkoWJ_uXuzERUIIpjfWy3Z5Qdt0hMYaMnNwhOaH0RXRJCI4vsoaK07TPpyAj8aDzYVhZIS2khcIqlpPbL71AjkOel4NnUMdHj622v3pCRF0Cc8EMTmTwhWkf1hiONn-Pgl5KRrmIrQfPiVseRrCUkf93KkyP15=s24");
+  list-style-image: url("#");
 }
 blockquote {
   color: #aaa;
@@ -297,7 +297,7 @@ hr {
 }
 .btn-github .icon {
   opacity: 0.6;
-  background: url("https://blogger.googleusercontent.com/img/a/AVvXsEgZgrWO3GTzmjY7N1Jj-xmUyoQ0FICgr0HVYUGSv4h8DMB4B8CsCLQRQhnpBRRvfHAAGY8__ZGOLhOf6ixK_eFBKNrDigXNdPR15ituDyO_Puk7jzlFZAZgTuwfYZyf0x_DFHMX6qgkmcuR-yILrCmjp9peagglXLDbzPBC0B1rawIdIKIjVspFScYT=s16")
+  background: url("#")
     0 0 no-repeat;
 }
 a {
