@@ -348,3 +348,12 @@ body {
   font-family: var(--font);
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #212121;
+  color: #b5e853;
+  text-align: center;
+}
